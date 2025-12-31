@@ -13,7 +13,7 @@ Bem-vindo ao meu portfólio mobile! Aqui você encontrará cinco projetos que de
 3. **[Cadastro de Clientes - Backend](./clientes-backend)**  
    Backend feito em **NestJS** com banco de dados PostgreSQL para cadastro de clientes.
 
-4. **[Cadastro de Clientes - Frontend](./CadClientesReactnative)**  
+4. **[Cadastro de Clientes - Frontend](./clientes-app)**  
    Frontend em **React Native (Expo)** para consumir a API de clientes e gerenciar cadastros.
 
 5. **[Todolist App](./ToDoListApp)**  
