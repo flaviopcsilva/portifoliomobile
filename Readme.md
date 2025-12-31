@@ -10,13 +10,13 @@ Bem-vindo ao meu portfólio mobile! Aqui você encontrará cinco projetos que de
 2. **[ClimaApp](./WeatherApp)**  
    Aplicativo de previsão do tempo integrado com a API do OpenWeather.
 
-3. **[Cadastro de Clientes - Backend](./CadClientesBackend)**  
+3. **[Cadastro de Clientes - Backend](./CadastroClientesBase)**  
    Backend feito em **NestJS** com banco de dados PostgreSQL para cadastro de clientes.
 
-4. **[Cadastro de Clientes - Frontend](./Cad Clientes React native)**  
+4. **[Cadastro de Clientes - Frontend](./CadClientesReactnative)**  
    Frontend em **React Native (Expo)** para consumir a API de clientes e gerenciar cadastros.
 
-5. **[Todolist App](./TodolistApp)**  
+5. **[Todolist App](./ToDoListApp)**  
    Aplicativo de tarefas simples, com criação, edição, conclusão e remoção de tarefas.
 
 ## 🔗 Contatos
