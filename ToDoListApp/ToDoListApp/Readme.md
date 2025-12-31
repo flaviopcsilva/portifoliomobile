@@ -1,9 +1,9 @@
 
----
+
 
 ## **5️⃣ Todolist App (`TodolistApp/README.md`)**
 
-```markdown
+
 # Todolist App - Gerenciador de Tarefas
 
 Aplicativo mobile em **React Native (Expo)** para criar, editar, concluir e remover tarefas.
@@ -26,5 +26,5 @@ Aplicativo mobile em **React Native (Expo)** para criar, editar, concluir e remo
 ## Como executar
 
 1. Instale as dependências:
-```bash
+
 npm install

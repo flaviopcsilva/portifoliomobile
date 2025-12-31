@@ -1,9 +1,9 @@
 
----
+
 
 ## **2️⃣ ClimaApp (`ClimaApp/README.md`)**
 
-```markdown
+
 # ClimaApp - Previsão do Tempo
 
 Aplicativo mobile que consome a **API do OpenWeather** para exibir previsão do tempo.
@@ -25,5 +25,5 @@ Aplicativo mobile que consome a **API do OpenWeather** para exibir previsão do 
 ## Como executar
 
 1. Instale as dependências:
-```bash
+
 npm install
