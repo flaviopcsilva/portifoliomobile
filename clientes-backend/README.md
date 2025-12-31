@@ -30,9 +30,11 @@ Backend feito em **NestJS** com **PostgreSQL** para gerenciar clientes.
 npm install
 
 ## Configure as variaveis de ambiente .env
-DB_HOST=localhost
-DB_PORT=5432
-DB_USER=seu_usuario
-DB_PASS=sua_senha
-DB_NAME=cadclientes
+
+-DB_HOST=localhost
+
+-DB_PORT=5432
+-DB_USER=seu_usuario
+-DB_PASS=sua_senha
+-DB_NAME=cadclientes
 
