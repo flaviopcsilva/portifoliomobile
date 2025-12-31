@@ -1,9 +1,12 @@
-# Portfólio Mobile - React Native & NestJS
+# Meu Portfólio
 
-Bem-vindo ao meu portfólio de projetos mobile!  
-Aqui você encontra **4 projetos completos**, desenvolvidos em **React Native** e **NestJS**, demonstrando habilidades em desenvolvimento mobile, integração com backend e banco de dados.
+Este repositório contém 4 projetos:
+
+1. **FoodExpress** - App de delivery em React Native
+2. **WeatherApp** - App de previsão do tempo em React Native
+3. **PixPayment** - Sistema de pagamento Pix em Node.js
+4. **ClientesApp** - CRUD de clientes com React Native + NestJS + PostgreSQL
 
 ---
 
-## **📁 Estrutura do repositório**
-
+Clique nas pastas para acessar cada projeto individualmente.
