@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio mobile! Aqui você encontrará quatro projetos que d
 1. **[FoodExpress](./FoodExpress)**  
    Aplicativo de delivery para bares e restaurantes, com carrinho e pedidos.
 
-2. **[ClimaApp](./ClimaApp)**  
+2. **[ClimaApp](./WeatherApp)**  
    Aplicativo de previsão do tempo integrado com a API do OpenWeather.
 
 3. **[Cadastro de Clientes - Backend](./CadClientesBackend)**  
