@@ -1,12 +1,31 @@
-# Meu Portfólio
+# Portfólio Mobile - Flávio Cardoso
 
-Este repositório contém 4 projetos:
+Bem-vindo ao meu portfólio mobile! Aqui você encontrará quatro projetos que desenvolvi usando **React Native, NestJS e PostgreSQL**.
 
-1. **FoodExpress** - App de delivery em React Native
-2. **WeatherApp** - App de previsão do tempo em React Native
-3. **PixPayment** - Sistema de pagamento Pix em Node.js
-4. **ClientesApp** - CRUD de clientes com React Native + NestJS + PostgreSQL
+## 📂 Projetos
 
----
+1. **[FoodExpress](./FoodExpress)**  
+   Aplicativo de delivery para bares e restaurantes, com carrinho e pedidos.
 
-Clique nas pastas para acessar cada projeto individualmente.
+2. **[ClimaApp](./ClimaApp)**  
+   Aplicativo de previsão do tempo integrado com a API do OpenWeather.
+
+3. **[Cadastro de Clientes - Backend](./CadClientesBackend)**  
+   Backend feito em **NestJS** com banco de dados PostgreSQL para cadastro de clientes.
+
+4. **[Cadastro de Clientes - Frontend](./CadClientesApp)**  
+   Frontend em **React Native (Expo)** para consumir a API de clientes e gerenciar cadastros.
+
+## 🔗 Contatos
+
+- LinkedIn: [Flávio Cardoso](https://www.linkedin.com/in/fl%C3%A1vio-cardoso-093391139)
+- Email: flaviopc@example.com
+
+## 💻 Tecnologias usadas
+
+- JavaScript / TypeScript
+- React Native / Expo
+- NestJS / Node.js / Express
+- PostgreSQL
+- Axios
+- Git / GitHub
